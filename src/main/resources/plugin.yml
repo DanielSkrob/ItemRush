@@ -1,0 +1,4 @@
+name: ItemRush
+version: '${project.version}'
+main: me.xddanda.itemrush.ItemRush
+api-version: 1.19
